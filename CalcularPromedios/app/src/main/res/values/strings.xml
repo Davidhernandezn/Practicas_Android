@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalcularPromedios</string>
+    <string name="apptitle">Completa los datos para evaluar tu desempeño</string>
+    <string name="materia1">Ingles</string>
+    <string name="materia2">P.O.O</string>
+    <string name="materia3">Contabilidad</string>
+    <string name="materia4">Sofware</string>
+    <string name="resultadomsj">Tu resultado:</string>
+    <string name="valor0">0</string>
+    <string name="Evaluarme">Evaluarme</string>
+
+</resources>
