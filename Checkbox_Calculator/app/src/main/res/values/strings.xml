@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Checkbox_Calculator</string>
+    <string name="number1">Ingresa el primer numero</string>
+    <string name="number2">Ingresa el segundo numero</string>
+    <string name="txtSumar">Sumar</string>
+    <string name="txtRestar">Restar</string>
+    <string name="mensajeResult">Resultado:</string>
+    <string name="valor">0</string>
+    <string name="text_calcular"> Calcular</string>
+</resources>
