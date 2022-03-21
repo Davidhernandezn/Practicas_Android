@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RadioButton_Calculator</string>
+    <string name="addnumber">Agrega un numero</string>
+    <string name="resultTxt">Resultado:</string>
+    <string name="valor">0</string>
+    <string name="calcular">calcular</string>
+    <string name="sumar">+ Sumar</string>
+    <string name="restar">- Restar</string>
+    <string name="multiplicar">* Multiplicar</string>
+    <string name="dividir">/ Dividir</string>
+</resources>
